@@ -1,0 +1,13 @@
+.list{
+    display: flex;
+    width: 100%;
+
+    .listContainer{
+        flex: 6;
+
+        h2{
+            margin: 10px ;
+            font-size: 25px;
+        }
+    }
+}
